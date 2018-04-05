@@ -1,0 +1,9 @@
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\bin\Debug\WireFrameGraphics.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\obj\Debug\WireFrameGraphics.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\obj\Debug\WireFrameGraphics.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\bin\Debug\WireFrameGraphics.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\bin\Debug\WireFrameGraphics.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\obj\Debug\WireFrameGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\obj\Debug\WireFrameGraphics.Form1.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\obj\Debug\WireFrameGraphics.Properties.Resources.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\WireFrameGraphics\WireFrameGraphics\obj\Debug\WireFrameGraphics.csproj.GenerateResource.Cache

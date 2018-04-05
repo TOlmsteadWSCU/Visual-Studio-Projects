@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\bin\Debug\MissileCommand1.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\bin\Debug\MissileCommand1.exe
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\bin\Debug\MissileCommand1.pdb
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\obj\Debug\MissileCommand1.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\obj\Debug\MissileCommand1.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\obj\Debug\MissileCommand1.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\obj\Debug\MissileCommand1.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\obj\Debug\MissileCommand1.exe
+c:\users\owner\documents\visual studio 2015\Projects\MissileCommand1\MissileCommand1\obj\Debug\MissileCommand1.pdb

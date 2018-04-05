@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\NeuralNets\NeuralNets\bin\Debug\NeuralNets.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\bin\Debug\NeuralNets.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\bin\Debug\NeuralNets.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.pdb

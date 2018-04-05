@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2015\Projects\RayTracingGraphics\RayTracingGraphics\bin\Debug\RayTracingGraphics.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RayTracingGraphics\RayTracingGraphics\obj\Debug\RayTracingGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RayTracingGraphics\RayTracingGraphics\obj\Debug\RayTracingGraphics.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RayTracingGraphics\RayTracingGraphics\obj\Debug\RayTracingGraphics.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RayTracingGraphics\RayTracingGraphics\obj\Debug\RayTracingGraphics.csproj.GenerateResource.Cache
